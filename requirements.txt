@@ -1,0 +1,7 @@
+requests~=2.23.0
+geopy~=1.22.0
+editdistance~=0.5.3
+Fuzzy~=1.2.2
+spacy~=2.2.4
+wheel~=0.34.2
+en_core_web_sm
